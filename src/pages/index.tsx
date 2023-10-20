@@ -1,7 +1,5 @@
-import Privacidade from "./privacidade";
-
 const App: React.FC = () => {
-  return <Privacidade />;
+  return <h1></h1>;
 };
 
 export default App;
